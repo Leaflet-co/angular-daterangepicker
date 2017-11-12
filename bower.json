@@ -21,7 +21,7 @@
   "dependencies": {
     "angular": "^1.2.17",
     "bootstrap": "^3.0.0",
-    "bootstrap-daterangepicker": "git@github.com:Leaflet-co/angular-daterangepicker.git"
+    "bootstrap-daterangepicker": "git@github.com:Leaflet-co/bootstrap-daterangepicker.git"
   },
   "devDependencies": {
     "angular-messages": "^1.2.17"
