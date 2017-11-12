@@ -13,7 +13,7 @@
   "dependencies": {
     "angular": "^1.2.17",
     "bootstrap": "^3.0.0",
-    "bootstrap-daterangepicker": "git@github.com:Leaflet-co/bootstrap-daterangepicker.git"
+    "bootstrap-daterangepicker": "git@github.com:Leaflet-co/bootstrap-daterangepicker.git#v2.1.26"
   },
   "main": "index.js",
   "devDependencies": {
